@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "chrome-types": "^0.1.227"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.244"
+  }
+}
